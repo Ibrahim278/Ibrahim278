@@ -2,6 +2,7 @@
 
 
 ### Welcome to my Profile
+[![image](https://github.com/user-attachments/assets/5cb58d5e-430a-4fdc-9975-c17986e1fa97)]
 [![Kaggle](https://github.com/user-attachments/assets/b511fd89-c225-48a6-acb6-5ed85a50eac4)](https://www.kaggle.com/ibrahimirfan95) 
 
 # I am a Data Scientist, Python Expert and ML Practitioner 
