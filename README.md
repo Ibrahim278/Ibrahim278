@@ -10,13 +10,9 @@
 [![image](https://github.com/user-attachments/assets/0b8f7823-8a0c-4ff8-b66b-ddd76055d402)](https://www.linkedin.com/in/ibrahim-irfan-349332206/)
 
 * 🔭 I am Currently working as an Artificial and Machine Learning Engineer at Eve Bytes.
-🌱 I’m currently Learning Deep Learning 📜😎.
-
-🗞️ I am pursuing my Masters in Computer Science from University of York.
-
-👯 I’m contributing on Kaggle Datasets Category with rank of Kaggle Master🥇.
-
-🥅 2024 Goals: Explore the more and more research of NLP, Computer vision, Deep learning, Time Series Analysis, Sequential Data Analysis, RAG, Transformers, LLM's etc.
-
-⚡ Fun fact: I love to code 📊.
+* 🌱 I’m currently Learning Deep Learning 📜😎.
+* 🗞️ I am pursuing my Masters in Computer Science from University of York.
+* 👯 I’m contributing on Kaggle Datasets Category with rank of Kaggle Master🥇.
+* 🥅 2024 Goals: Explore the more and more research of NLP, Computer vision, Deep learning, Time Series Analysis, Sequential Data Analysis, RAG, Transformers, LLM's etc.
+* ⚡ Fun fact: I love to code 📊.
 
