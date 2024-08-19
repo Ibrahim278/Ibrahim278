@@ -16,3 +16,4 @@
 * 🥅 2024 Goals: Explore the more and more research of NLP, Computer vision, Deep learning, Time Series Analysis, Sequential Data Analysis, RAG, Transformers, LLM's etc.
 * ⚡ Fun fact: I love to code 📊.
 
+![image](https://github.com/user-attachments/assets/ad7a9258-2dd0-4770-93e3-71d6ff997b50) ![image](https://github.com/user-attachments/assets/3d3a4bd5-9934-49db-b7d2-62785162f836)
