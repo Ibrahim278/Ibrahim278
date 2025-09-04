@@ -9,9 +9,10 @@
 # I am an Expert in Artificial Intelligence, Python and an ML Practitioner 
 [![image](https://github.com/user-attachments/assets/0b8f7823-8a0c-4ff8-b66b-ddd76055d402)](https://www.linkedin.com/in/ibrahim-irfan-349332206/)
 
-* 🔭 I am Currently working as an Artificial and Machine Learning Engineer at Eve Bytes.
-* 🌱 I’m currently Learning Deep Learning 📜😎.
-* 🗞️ I am pursuing my Masters in Computer Science from University of York.
+* 🔭 I am Currently residing in Ottawa, Ontario, Canada as a CO-OP Student in AI Software Development at Algonqion College.
+* 🌱 I’m currently Learning Deep Learning and Computer Vision 📜😎.
+* 🗞️ I obtained my Master's Degree in Computer Science with my specialization in Artificial Intelligence and Machine Learning.
+* I published two researcg projects on Early Lung Cancer Diagnosis using Artificial Neural Networks and on SMS Spam Filtering using Random Forest and Logistic Regression. You find those papers here:  [](https://www.researchgate.net/profile/Ibrahim-Irfan/research).
 * 👯 I’m contributing on Kaggle Datasets Category with rank of Kaggle Master🥇.
 * 🥅 2024 Goals: Explore the more and more research of NLP, Computer vision, Deep learning, Time Series Analysis, Sequential Data Analysis, RAG, Transformers, LLM's etc.
 * ⚡ Fun fact: I love to code 📊.
