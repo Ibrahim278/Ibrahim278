@@ -8,7 +8,7 @@
 
 # I am an Expert in Artificial Intelligence, Python and an ML Practitioner 
 [![image](https://github.com/user-attachments/assets/0b8f7823-8a0c-4ff8-b66b-ddd76055d402)](https://www.linkedin.com/in/ibrahim-irfan-349332206/)
-[i[image]("https://github.com/user-attachments/assets/26ed4b7c-b5a1-4a50-9537-176ffc06dcb1")](https://www.researchgate.net/profile/Ibrahim-Irfan?ev=prf_overview)
+[("https://github.com/user-attachments/assets/26ed4b7c-b5a1-4a50-9537-176ffc06dcb1")](https://www.researchgate.net/profile/Ibrahim-Irfan?ev=prf_overview)
 
 * 🔭 I am Currently residing in Ottawa, Ontario, Canada as a CO-OP Student in AI Software Development at Algonqion College.
 * 🌱 I’m currently Learning Deep Learning and Computer Vision 📜😎.
