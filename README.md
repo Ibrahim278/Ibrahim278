@@ -12,7 +12,7 @@
 * 🔭 I am Currently residing in Ottawa, Ontario, Canada as a CO-OP Student in AI Software Development at Algonqion College.
 * 🌱 I’m currently Learning Deep Learning and Computer Vision 📜😎.
 * 🗞️ I obtained my Master's Degree in Computer Science with my specialization in Artificial Intelligence and Machine Learning.
-* 📑 I published two researcg projects on Early Lung Cancer Diagnosis using Artificial Neural Networks and on SMS Spam Filtering using Random Forest and Logistic Regression. You find those papers here:  [Publications](https://www.researchgate.net/profile/Ibrahim-Irfan/research)
+* 📑 I published two research projects on Early Lung Cancer Diagnosis using Artificial Neural Networks and on SMS Spam Filtering using Random Forest and Logistic Regression. You find those papers here:  [Publications by Ibrahim Irfan](https://www.researchgate.net/profile/Ibrahim-Irfan/research)
 * 👯 I’m contributing on Kaggle Datasets Category with rank of Kaggle Master🥇.
 * 🥅 2024 Goals: Explore the more and more research of NLP, Computer vision, Deep learning, Time Series Analysis, Sequential Data Analysis, RAG, Transformers, LLM's etc.
 * ⚡ Fun fact: I love to code 📊.
