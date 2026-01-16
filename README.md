@@ -17,6 +17,6 @@
 * 🗞️ I obtained my Master's Degree in Computer Science with my specialization in Artificial Intelligence and Machine Learning from University of York.
 * 📑 I published two research projects on Early Lung Cancer Diagnosis using Artificial Neural Networks and on SMS Spam Filtering using Random Forest and Logistic Regression. You find those papers here:  [Publications by Ibrahim Irfan](https://www.researchgate.net/profile/Ibrahim-Irfan/research)
 * 👯 I’m contributing on Kaggle Datasets Category with rank of Kaggle Master🥇.
-* 🥅 2025 Goals: Explore the more and more research of NLP, Computer vision, Deep learning, Time Series Analysis, Sequential Data Analysis, RAG, Transformers, LLM's, ROS, and Generative AI, etc.
+* 🥅 2026 Goals: Explore the more and more research of NLP, Computer vision, Deep learning, Time Series Analysis, Sequential Data Analysis, RAG, Transformers, LLM's, ROS, and Generative AI, etc.
 * ⚡ Fun fact: I love to code and technology is my passion 📊.
 
