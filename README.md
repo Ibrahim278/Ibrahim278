@@ -20,3 +20,9 @@
 * 🥅 2026 Goals: Explore the more and more research of NLP, Computer vision, Deep learning, Time Series Analysis, Sequential Data Analysis, RAG, Transformers, LLM's, ROS, and Generative AI, etc.
 * ⚡ Fun fact: I love to code and technology is my passion 📊.
 
+# Some of my projects include:
+* Spam Filtering using Random Forest and Naive Bayes Classification
+* Early Lung Cancer Diagnosis using Deep Learning Neural Networks
+* AI-Based Content Generation System using GenAI, Python Flask and HTML
+* Crime Factor Analysis and Anomaly Detection using Classification, Clustering and Outlier Detection
+* SME Supply Chain Risk Analysis Platform using GenAI and Web Development
