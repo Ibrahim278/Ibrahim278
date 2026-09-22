@@ -12,7 +12,7 @@
 <a href="https://www.researchgate.net/profile/Ibrahim-Irfan?ev=prf_overview" target="_blank">
   <img src="https://github.com/user-attachments/assets/65ff043f-935d-4ed5-b05e-f1ff47205b96" width="150" alt="ResearchGate Logo">
 </a>
-* 🔭 I am Currently residing in Ottawa, Ontario, Canada as a CO-OP Student in AI Software Development at Algonqion College.
+* 🔭 I am Currently residing in Ottawa, Ontario, Canada having recently completed a Graduate Diploma in AI Software Development at Algonqion College.
 * 🌱 I’m currently Learning Deep Learning and Computer Vision 📜😎.
 * 🗞️ I obtained my Master's Degree in Computer Science with my specialization in Artificial Intelligence and Machine Learning from University of York.
 * 📑 I published two research projects on Early Lung Cancer Diagnosis using Artificial Neural Networks and on SMS Spam Filtering using Random Forest and Logistic Regression. You find those papers here:  [Publications by Ibrahim Irfan](https://www.researchgate.net/profile/Ibrahim-Irfan/research)
