@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071C26,50:063D36,100:00F5A0&height=180&section=header&text=Ibrahim%20Irfan&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=62&descSize=18" alt="Ibrahim Irfan AI and Machine Learning banner"/>
+  <img src="./assets/ibrahim-irfan-ai-ml-banner-gradient.png" alt="Ibrahim Irfan – AI/ML Engineer banner" width="100%"/>
 </p>
 
 <h1 align="center">Hey there, I'm Ibrahim 👋</h1>
