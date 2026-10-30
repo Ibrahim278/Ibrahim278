@@ -95,8 +95,14 @@ Deep Learning · Computer Vision · NLP · RAG · Transformers · Time Series
   <img src="https://streak-stats.demolab.com?user=Ibrahim278&hide_border=true&background=020617&ring=00F5A0&fire=00F5A0&currStreakLabel=7FFFD4&sideLabels=7FFFD4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub streak statistics" />
 </p>
 
+<h2 align="center">🐍 Contribution Snake</h2>
+  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibrahim278&bg_color=020617&color=7FFFD4&line=00F5A0&point=FFFFFF&area=true&area_color=063D36&hide_border=true" alt="GitHub activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibrahim278/Ibrahim278/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ibrahim278/Ibrahim278/output/github-snake.svg" />
+    <img alt="Ibrahim's contribution snake" src="https://raw.githubusercontent.com/Ibrahim278/Ibrahim278/output/github-snake-dark.svg" />
+  </picture>
 </p>
 
 <h2 align="center">🌐 Let's Connect</h2>
